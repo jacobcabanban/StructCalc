@@ -1,0 +1,37 @@
+StructCalc.sln
+
+src/
+├── StructCalc.Core/
+│   ├── Common/
+│   ├── Abstractions/
+│   └── Loads/
+│       ├── NBCC/
+│       │   ├── 2015/
+│       │   │   ├── Snow/
+│       │   │   ├── Wind/
+│       │   │   ├── Rain/
+│       │   │   └── Seismic/
+│       │   └── 2020/
+│       │       ├── Snow/
+│       │       ├── Wind/
+│       │       ├── Rain/
+│       │       └── Seismic/
+│       └── ASCE/
+│           ├── 7-16/
+│           │   ├── Snow/
+│           │   ├── Wind/
+│           │   ├── Rain/
+│           │   └── Seismic/
+│           └── 7-22/
+│               ├── Snow/
+│               ├── Wind/
+│               ├── Rain/
+│               └── Seismic/
+│
+├── StructCalc.Api/
+├── StructCalc.Infrastructure/
+└── StructCalc.Application/
+
+tests/
+├── StructCalc.Core.Tests/
+└── StructCalc.Api.Tests/

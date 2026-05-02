@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="StructCalc.Tests/StructCalc.Tests.csproj" Id="80eb5e60-8c16-4eb6-ac55-3127fc396c63" />
+  <Project Path="StructCalc/StructCalc.csproj" />
+</Solution>
